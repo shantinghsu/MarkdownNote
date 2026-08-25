@@ -93,7 +93,7 @@ for i in range(3):
    > Have to upload the file first. Otherwise, should be a web image.
 
    <img src="ZhaoLusi.jpg" width="307.4" height="460.8">  
-3. URLs and Email Addresses \<link or email address>
+3. URLs and Email Addresses \<link or email address>  
 <https://github.com/shantinghsu>  
 <shantinghsu0409@gmail.com>
 4. Navigate to a Heading \[Name](#heading-ids)  
