@@ -9,6 +9,26 @@ Some notes about how to use markdown syntax.
 **Two Enter**: Newline with am empty line.
 
 ---
+#### Navigator
+<table>
+   <tr>
+      <td>[Tables](#Tables)</td>
+      <td>[Size](#Size)</td>
+      <td>[Font](#Font)</td>
+   </tr>
+   <tr>
+      <td>[Format](#Format)</td>
+      <td>[List](#List)</td>
+      <td>[Code](#Code-Block)</td>
+   </tr>
+   <tr>
+      <td>[Hyperlink](#Hyperlink)</td>
+      <td>[Top](#MarkdownNote)</td>
+      <td>[Bottom](Hyperlink)</td>
+   </tr>
+</table>
+
+---
 #### Tables
 - Use **three or more hyphens (\---)** to distinct header and content.
 - Use **pipes (|)** to seperate each column.
@@ -17,13 +37,6 @@ Some notes about how to use markdown syntax.
    - Align to the right :text:
    - Align to the middle text:
  
----
-#### Navigator
-| [Tables](#Tables) | [Size](#Size) | [Font](#Font)|
-| [Format](#Format) | [List](#List) | [Code](#Code-Block)|
-| [Hyperlink](#Hyperlink) | [Top](#MarkdownNote) | [Bottom](Hyperlink)|
-
-
 ---
 #### Size
 - Heading \# (6 levels: smaller level, bigger size)
