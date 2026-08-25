@@ -6,6 +6,7 @@ Some notes about how to use markdown syntax.
 
 **Backslash** \\: Escape Character.  
 > To show the reserved character up under the markdown mode.
+
 **Two Space and Enter**: Newline without an empty line.  
 **Two Enter**: Newline with am empty line.
 
