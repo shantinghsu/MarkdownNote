@@ -9,7 +9,7 @@ Two Space and Enter: Newline without an empty line.
 Two Enter: Newline with am empty line.
 
 ---
-### Tables
+#### Tables
 - Use **three or more hyphens (\---)** to distinct header and content.
 - Use **pipes (|)** to seperate each column.
 - Alignment inside the table
@@ -17,8 +17,9 @@ Two Enter: Newline with am empty line.
    - Align to the right :text:
    - Align to the middle text:
 
+
 ---
-### Size
+#### Size
 Heading \# (6 levels: smaller level, bigger size)
 
 ---
@@ -36,7 +37,13 @@ Heading \# (6 levels: smaller level, bigger size)
 ---
 ***
 3. List: numerical/\-
-4. Task List \- \[ \] 
+  1. A
+  2. B
+  3. C
+   - D
+   - E
+   - F
+5. Task List \- \[ \] 
    - [x] Add x between [] to select a checkbox.
    - [ ] Need space between brackets.
 
