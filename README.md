@@ -38,7 +38,8 @@ Heading \# (6 levels: smaller level, bigger size)
 
 #### Code Block 
 One line code \`
-`print("Hello World")   print("Second Line")`
+`   print("Hello World")
+      print("Second Line")`
 Multiple lines codes \``` or \~~~
 ```
 for i in range(3):
