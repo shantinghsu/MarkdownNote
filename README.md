@@ -42,7 +42,7 @@ Some notes about how to use markdown syntax.
  
 ---
 #### Size
-- Heading \# (6 levels: smaller level, bigger size)
+- Heading \# (6 levels: smaller level, less hastag, bigger size)
 
 ---
 #### Font
