@@ -46,8 +46,9 @@ Some notes about how to use markdown syntax.
 1. *Italic* \*
 2. **Bold** \**
 3. ==Highlight== \==
-4. ~Strikethrough~ \~~
-5. Subscript
+4. ~Strikethrough~ \~ or \~~
+5. ~~Bold Strikethrough~~
+6. Subscript
    H~2~O \~T\~
 8. Superscript X^2^ \^T\^
 
