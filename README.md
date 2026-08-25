@@ -31,7 +31,7 @@ To show the reserved character up under the markdown mode.
 
 ---
 #### Tables
-* Use **three or more hyphens (\---)** to distinct header and content.
+- Use **three or more hyphens (\---)** to distinct header and content.
 - Use **pipes (|)** to seperate each column.
 - Alignment inside the table
    - Align to the left :text
