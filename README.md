@@ -37,13 +37,14 @@ Heading \# (6 levels: smaller level, bigger size)
    - [ ] Need space between brackets.
 
 #### Code Block 
-One line code \'
-'print("Hello World")'
-Multiple lines codes \''' or \~~~
-'''
-   for i in range(3):
-      print("This is line ", i)
-'''
+One line code \`
+`print("Hello World")
+print("Second Line")`
+Multiple lines codes \``` or \~~~
+```
+for i in range(3):
+   print("This is line ", i)
+```
 
 
 #### Hyperlink
