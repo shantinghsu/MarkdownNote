@@ -33,6 +33,7 @@ Some notes about how to use markdown syntax.
 ---
 #### Tables
 - Use **three or more hyphens (\---)** to distinct header and content.
+  > Title Row is required
 - Use **pipes (|)** to seperate each column.
 - Alignment inside the table
    - Align to the left :text
