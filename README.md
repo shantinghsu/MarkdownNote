@@ -19,9 +19,9 @@ Some notes about how to use markdown syntax.
  
 ---
 #### Navigator
-|[Tables](#Tables)|[Size](#Size)|[Font](#Font)|
-|[Format](#Format)|[List](#List)|[Code](#Code-Block)|
-|[Hyperlink](#Hyperlink)|[Top](#MarkdownNote)|[Bottom](Hyperlink)|
+| [Tables](#Tables) | [Size](#Size) | [Font](#Font)|
+| [Format](#Format) | [List](#List) | [Code](#Code-Block)|
+| [Hyperlink](#Hyperlink) | [Top](#MarkdownNote) | [Bottom](Hyperlink)|
 
 
 ---
