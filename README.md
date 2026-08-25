@@ -89,7 +89,7 @@ for i in range(3):
 #### Hyperlink
 1. Link \[title](link)
 [My GitHub Profile](https://github.com/shantinghsu)
-2. Image <mark>**!**</mark>\[alt text](image.jpg)
+2. Image <span style = "color: red">!</span>\[alt text](image.jpg)
    > Have to upload the file first. Otherwise, should be a web image.
    
    ![My favorite actress: Zhao Lusi](ZhaoLusi.jpg)
