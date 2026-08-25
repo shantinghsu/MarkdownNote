@@ -6,6 +6,14 @@ Some notes about how to use markdown syntax.
 
 Backslash \: To show the reserved character up under the markdown mode.
 
+#### Tables
+- Use **three or more hyphens (\---)** to distinct header and content.
+- Use **pipes (|)** to seperate each column.
+- Alignment inside the table
+   - Align to the left \:text
+   - Align to the right \:text:
+   - Align to the middle \text:
+
 #### Size
 Heading \# (6 levels: smaller level, bigger size)
 
@@ -22,9 +30,9 @@ Heading \# (6 levels: smaller level, bigger size)
 ---
 ***
 3. List: numerical/\-
-4. Task List \- \[ \]
+4. Task List \- \[ \] 
    - [x] Add x between [] to select a checkbox.
-   - [] Something haven't done yet...
+   - [ ] Need space between brackets.
 
 #### Code "\`"
 `print("Hello World")`
@@ -32,6 +40,6 @@ Heading \# (6 levels: smaller level, bigger size)
 #### Hyperlink
 1. Link \[title](link)
 [My GitHub Profile](https://github.com/shantinghsu)
-2. Image \![alt text](image.jpg)
+2. Image \!\[alt text](image.jpg)
    > Have to upload the file first. Otherwise, should be a web image.
-[My favorite actress: Zhao Lusi]()
+   [My favorite actress: Zhao Lusi](ZhaoLusi.jpg)
