@@ -6,7 +6,8 @@ Some notes about how to use markdown syntax.
 
 Backslash \: To show the reserved character up under the markdown mode.
 
-#### Tables
+### Tables
+---
 - Use **three or more hyphens (\---)** to distinct header and content.
 - Use **pipes (|)** to seperate each column.
 - Alignment inside the table
@@ -14,7 +15,8 @@ Backslash \: To show the reserved character up under the markdown mode.
    - Align to the right :text:
    - Align to the middle text:
 
-#### Size
+### Size
+---
 Heading \# (6 levels: smaller level, bigger size)
 
 #### Font
