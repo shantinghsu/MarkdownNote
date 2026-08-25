@@ -1,12 +1,12 @@
 # MarkdownNote
 Some notes about how to use markdown syntax.
 
-[Official Website](https://www.markdownguide.org/basic-syntax/)  
-[Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
+- [Official Website](https://www.markdownguide.org/basic-syntax/)  
+- [Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 
-Backslash \: To show the reserved character up under the markdown mode.
-Two Space and Enter: Newline without an empty line.
-Two Enter: Newline with am empty line.
+- Backslash \: To show the reserved character up under the markdown mode.
+- Two Space and Enter: Newline without an empty line.
+- Two Enter: Newline with am empty line.
 
 ---
 #### Tables
@@ -20,7 +20,7 @@ Two Enter: Newline with am empty line.
 
 ---
 #### Size
-Heading \# (6 levels: smaller level, bigger size)
+- Heading \# (6 levels: smaller level, bigger size)
 
 ---
 #### Font
