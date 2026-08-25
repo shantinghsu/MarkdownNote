@@ -89,9 +89,10 @@ for i in range(3):
 #### Hyperlink
 1. Link \[title](link)
 [My GitHub Profile](https://github.com/shantinghsu)
-2. Image <font color="red">!</font>\[alt text](image.jpg)
+2. Image \!\[alt text](image.jpg)
    > Have to upload the file first. Otherwise, should be a web image.
-   
+
+   <img src="ZhaoLusi.jpg" width="200" height="100">
    ![My favorite actress: Zhao Lusi](ZhaoLusi.jpg)
 3. URLs and Email Addresses \<link or email address>
 <https://github.com/shantinghsu>  
