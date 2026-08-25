@@ -15,4 +15,4 @@ Backslash \: To show the reserved character up under the markdown mode.
 6. Code "\`"
 `print("Hello World")`
 7. Horizontal Rule \---
---- ?
+---
