@@ -5,7 +5,8 @@ Some notes about how to use markdown syntax.
 [Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 
 Backslash \: To show the reserved character up under the markdown mode.
-Two Space: Newline
+Two Space and Enter: Newline without an empty line.
+Two Enter: Newline with am empty line.
 
 ---
 ### Tables
@@ -49,7 +50,7 @@ for i in range(3):
    print("This is line ", i)
 ```
 
-
+---
 #### Hyperlink
 1. Link \[title](link)
 [My GitHub Profile](https://github.com/shantinghsu)
