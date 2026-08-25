@@ -14,19 +14,19 @@ Some notes about how to use markdown syntax.
 #### Navigator
 <table>
    <tr>
-      <td> [Tables](#Tables)</td>
-      <td>[Size](#Size)</td>
-      <td>[Font](#Font)</td>
+      <td> <a href = "#Tables">Tables</a> </td>
+      <td> <a href = "#Size">Size</a> </td>
+      <td> <a href = "#Font">Font</a> </td>
    </tr>
    <tr>
-      <td>[Format](#Format)</td>
-      <td>[List](#List)</td>
-      <td>[Code](#Code-Block)</td>
+      <td> <a href = "#Format">Format</a> </td>
+      <td> <a href = "#List">List</a> </td>
+      <td> <a href = "#Code Block">Code</a> </td>
    </tr>
    <tr>
-      <td>[Hyperlink](#Hyperlink)</td>
-      <td>[Top](#MarkdownNote)</td>
-      <td>[Bottom](Hyperlink)</td>
+      <td> <a href = "#Hyperlink">Hyperlink</a> </td>
+      <td> <a href = "#MarkdownNote">Top</a> </td>
+      <td> <a href = "#Hyperlink">Bottom</a> </td>
    </tr>
 </table>
 
