@@ -67,5 +67,5 @@ for i in range(3):
 3. URLs and Email Addresses \<link or email address>
 <https://github.com/shantinghsu>  
 <shantinghsu0409@gmail.com>
-4. Link to Heading \[Name](#heading-ids)
-[Go to Tables](#Tables)
+4. Link to Heading \[Name](#heading-ids)  
+[Go back to the top](#MarkdownNote)
