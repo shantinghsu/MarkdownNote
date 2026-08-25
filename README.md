@@ -92,7 +92,7 @@ for i in range(3):
 2. Image \!\[alt text](image.jpg)
    > Have to upload the file first. Otherwise, should be a web image.
 
-   <img src="ZhaoLusi.jpg" width="30.74" height="46.08">
+   <img src="ZhaoLusi.jpg" width="46.08" height="30.74">
    ![My favorite actress: Zhao Lusi](ZhaoLusi.jpg)
 3. URLs and Email Addresses \<link or email address>
 <https://github.com/shantinghsu>  
