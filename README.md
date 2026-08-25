@@ -10,9 +10,9 @@ Backslash \: To show the reserved character up under the markdown mode.
 - Use **three or more hyphens (\---)** to distinct header and content.
 - Use **pipes (|)** to seperate each column.
 - Alignment inside the table
-   - Align to the left \:text
-   - Align to the right \:text:
-   - Align to the middle \text:
+   - Align to the left :text
+   - Align to the right :text:
+   - Align to the middle text:
 
 #### Size
 Heading \# (6 levels: smaller level, bigger size)
