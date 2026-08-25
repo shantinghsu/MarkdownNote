@@ -49,8 +49,9 @@ Some notes about how to use markdown syntax.
 1. *Italic* \*
 2. **Bold** \**
 3. ==Highlight== \==
-4. ~Strikethrough~ \~ or \~~
-5. Subscript (HTML) \<sub>T\</sub>  
+==Highlight==
+5. ~Strikethrough~ \~ or \~~
+6. Subscript (HTML) \<sub>T\</sub>  
   H<sub>2</sub>O
 7. Superscript (HTML) \<sup>T\</sup>  
    X<sup>2</sup>
