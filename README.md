@@ -16,6 +16,12 @@ Some notes about how to use markdown syntax.
    - Align to the left :text
    - Align to the right :text:
    - Align to the middle text:
+ 
+---
+#### Navigator
+|[Tables](#Tables)|[Size](#Size)|[Font](#Font)|
+|[Format](#Format)|[List](#List)|[Code](#Code-Block)|
+|[Hyperlink](#Hyperlink)|[Top](#MarkdownNote)|[Bottom](Hyperlink)|
 
 
 ---
@@ -34,16 +40,18 @@ Some notes about how to use markdown syntax.
 1. Blockquote \>
 > blockquote
 2. Horizontal Rule \--- or \***
+
 ---
-***
-3. List: numerical/\-
+#### List
+1. Numerical
   1. A
   2. B
   3. C
+2. \-
    - D
    - E
    - F
-5. Task List \- \[ \] 
+3. Task List \- \[ \] 
    - [x] Add x between [] to select a checkbox.
    - [ ] Need space between brackets.
 
@@ -67,5 +75,5 @@ for i in range(3):
 3. URLs and Email Addresses \<link or email address>
 <https://github.com/shantinghsu>  
 <shantinghsu0409@gmail.com>
-4. Link to Heading \[Name](#heading-ids)  
+4. Navigate to a Heading \[Name](#heading-ids)  
 [Go back to the top](#MarkdownNote)
