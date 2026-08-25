@@ -5,13 +5,13 @@ Some notes about how to use markdown syntax.
 [Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 
 **Heading IDs** \{}: Give a heading an ID.
-> ### Heading {#some-name}
+> ###### Heading {#some-name}
 **Backslash** \\: To show the reserved character up under the markdown mode.  
 **Two Space and Enter**: Newline without an empty line.  
 **Two Enter**: Newline with am empty line.
 
 ---
-#### Tables
+#### Tables {#tables}
 - Use **three or more hyphens (\---)** to distinct header and content.
 - Use **pipes (|)** to seperate each column.
 - Alignment inside the table
