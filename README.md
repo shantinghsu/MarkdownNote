@@ -4,6 +4,8 @@ Some notes about how to use markdown syntax.
 [Official Website](https://www.markdownguide.org/basic-syntax/) 
 [Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 
+**Heading IDs** \{}: Give a heading an ID.
+> ### Heading {#some-name}
 **Backslash** \\: To show the reserved character up under the markdown mode.  
 **Two Space and Enter**: Newline without an empty line.  
 **Two Enter**: Newline with am empty line.
