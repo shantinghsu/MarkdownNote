@@ -1,7 +1,7 @@
 # MarkdownNote
 Some notes about how to use markdown syntax.
 
-[Official Website](https://www.markdownguide.org/basic-syntax/)
+[Official Website](https://www.markdownguide.org/basic-syntax/)  
 [Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 
 Backslash \: To show the reserved character up under the markdown mode.
@@ -42,9 +42,9 @@ Heading \# (6 levels: smaller level, bigger size)
 
 ---
 #### Code Block 
-One line code \`
+One line code \`  
 `print("Hello World")`  
-Multiple lines codes \``` or \~~~
+Multiple lines codes \``` or \~~~  
 ```
 for i in range(3):
    print("This is line ", i)
