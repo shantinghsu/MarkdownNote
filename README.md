@@ -4,14 +4,12 @@ Some notes about how to use markdown syntax.
 [Official Website](https://www.markdownguide.org/basic-syntax/) 
 [Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 
-**Heading IDs** \{}: Give a heading an ID.
-> ###### Heading {#some-name}
 **Backslash** \\: To show the reserved character up under the markdown mode.  
 **Two Space and Enter**: Newline without an empty line.  
 **Two Enter**: Newline with am empty line.
 
 ---
-#### Tables {#tables}
+#### Tables
 - Use **three or more hyphens (\---)** to distinct header and content.
 - Use **pipes (|)** to seperate each column.
 - Alignment inside the table
@@ -69,3 +67,5 @@ for i in range(3):
 3. URLs and Email Addresses \<link or email address>
 <https://github.com/shantinghsu>  
 <shantinghsu0409@gmail.com>
+4. Link to Heading \[Name](#heading-ids)
+[Tables](#Tables)
