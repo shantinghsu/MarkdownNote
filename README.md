@@ -36,8 +36,11 @@ Heading \# (6 levels: smaller level, bigger size)
    - [x] Add x between [] to select a checkbox.
    - [ ] Need space between brackets.
 
-#### Code "\`"
-`print("Hello World")`
+#### Code Block "\`"
+`
+print("Hello World")
+print("Second Line")
+`
 
 #### Hyperlink
 1. Link \[title](link)
