@@ -91,6 +91,7 @@ for i in range(3):
 [My GitHub Profile](https://github.com/shantinghsu)
 2. Image \!\[alt text](image.jpg)
    > Have to upload the file first. Otherwise, should be a web image.
+   
    [My favorite actress: Zhao Lusi](ZhaoLusi.jpg)
 3. URLs and Email Addresses \<link or email address>
 <https://github.com/shantinghsu>  
