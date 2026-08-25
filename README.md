@@ -47,6 +47,8 @@ Some notes about how to use markdown syntax.
 2. **Bold** \**
 3. ==Highlight== \==
 4. ~~Strikethrough~~ \~~
+5. Subscript H~2~O \~T\~
+6. Superscript X^2^ \^T\^
 
 ---
 #### Format
@@ -73,7 +75,7 @@ Some notes about how to use markdown syntax.
 1. One line code \`  
 `print("Hello World")`  
 2. Multiple lines codes \``` or \~~~  
-```
+```python for loop
 for i in range(3):
    print("This is line ", i)
 ```
