@@ -1,8 +1,8 @@
 # MarkdownNote
 Some notes about how to use markdown syntax.
 
-- [Official Website](https://www.markdownguide.org/basic-syntax/)  
-- [Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
+[Official Website](https://www.markdownguide.org/basic-syntax/) 
+[Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 
 - Backslash \: To show the reserved character up under the markdown mode.
 - Two Space and Enter: Newline without an empty line.
@@ -49,9 +49,9 @@ Some notes about how to use markdown syntax.
 
 ---
 #### Code Block 
-One line code \`  
+1. One line code \`  
 `print("Hello World")`  
-Multiple lines codes \``` or \~~~  
+2. Multiple lines codes \``` or \~~~  
 ```
 for i in range(3):
    print("This is line ", i)
