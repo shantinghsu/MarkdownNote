@@ -51,7 +51,8 @@ Some notes about how to use markdown syntax.
 4. ~Strikethrough~ \~ or \~~
 5. Subscript (HTML) \<sub>T\</sub>
   H<sub>2</sub>O
-7. Superscript X^2^ \^T\^
+7. Superscript (HTML) \<sup>T\</sup>
+   X<sup>2</sup>
 
 ---
 #### Format
