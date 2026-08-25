@@ -50,7 +50,7 @@ Some notes about how to use markdown syntax.
 2. **Bold** \**
 3. ~Strikethrough~ \~ or \~~
 4. <mark>Highlight</mark> (HTML) \<mark>some important words\</mark>
-6. Subscript (HTML) \<sub>T\</sub>  
+6. Subscript<sub>?</sub> (HTML) \<sub>T\</sub>  
   H<sub>2</sub>O
 7. Superscript<sup>TM</sup> (HTML) \<sup>T\</sup>  
    X<sup>2</sup>
