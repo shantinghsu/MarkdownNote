@@ -6,28 +6,27 @@ Some notes about how to use markdown syntax.
 
 Backslash \: To show the reserved character up under the markdown mode.
 
-### Tables
 ---
+### Tables
 - Use **three or more hyphens (\---)** to distinct header and content.
 - Use **pipes (|)** to seperate each column.
-
----
-
 - Alignment inside the table
    - Align to the left :text
    - Align to the right :text:
    - Align to the middle text:
 
-### Size
 ---
+### Size
 Heading \# (6 levels: smaller level, bigger size)
 
+---
 #### Font
 1. *Italic* \*
 2. **Bold** \**
 3. ==Highlight== \==
 4. ~~Strikethrough~~ \~~
 
+---
 #### Format
 1. Blockquote \>
 > blockquote
@@ -39,6 +38,7 @@ Heading \# (6 levels: smaller level, bigger size)
    - [x] Add x between [] to select a checkbox.
    - [ ] Need space between brackets.
 
+---
 #### Code Block 
 One line code \`
 `print("Hello World")`
