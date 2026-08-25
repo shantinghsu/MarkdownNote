@@ -47,10 +47,9 @@ Some notes about how to use markdown syntax.
 2. **Bold** \**
 3. ==Highlight== \==
 4. ~Strikethrough~ \~ or \~~
-5. ~~Bold Strikethrough~~
-6. Subscript
-   H~2~O \~T\~
-8. Superscript X^2^ \^T\^
+5. Subscript (HTML) \<sub>T\</sub>
+  H<sub>2</sub>O
+7. Superscript X^2^ \^T\^
 
 ---
 #### Format
