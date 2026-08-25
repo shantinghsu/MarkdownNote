@@ -57,7 +57,7 @@ Some notes about how to use markdown syntax.
 ---
 #### Format
 1. Blockquote \>
-> blockquote
+> Something you would like to block...
 2. Horizontal Rule \--- or \***
 
 ---
