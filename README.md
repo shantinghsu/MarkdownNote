@@ -5,7 +5,7 @@ Some notes about how to use markdown syntax.
 [Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 
 **Backslash** \\: Escape Character.  
-  To show the reserved character up under the markdown mode.  
+To show the reserved character up under the markdown mode.  
 **Two Space and Enter**: Newline without an empty line.  
 **Two Enter**: Newline with am empty line.
 
@@ -31,7 +31,7 @@ Some notes about how to use markdown syntax.
 
 ---
 #### Tables
-- Use **three or more hyphens (\---)** to distinct header and content.
+* Use **three or more hyphens (\---)** to distinct header and content.
 - Use **pipes (|)** to seperate each column.
 - Alignment inside the table
    - Align to the left :text
