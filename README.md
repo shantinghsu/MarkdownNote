@@ -12,7 +12,7 @@ Some notes about how to use markdown syntax.
 #### Navigator
 <table>
    <tr>
-      <td>[Tables](#Tables)</td>
+      <td> [Tables](#Tables)</td>
       <td>[Size](#Size)</td>
       <td>[Font](#Font)</td>
    </tr>
