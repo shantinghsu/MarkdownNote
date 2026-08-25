@@ -7,7 +7,9 @@ Some notes about how to use markdown syntax.
 Backslash \: To show the reserved character up under the markdown mode.
 
 ### Tables
+
 ---
+
 - Use **three or more hyphens (\---)** to distinct header and content.
 - Use **pipes (|)** to seperate each column.
 - Alignment inside the table
@@ -38,8 +40,7 @@ Heading \# (6 levels: smaller level, bigger size)
 
 #### Code Block 
 One line code \`
-`   print("Hello World")
-      print("Second Line")`
+`print("Hello World")`
 Multiple lines codes \``` or \~~~
 ```
 for i in range(3):
