@@ -5,6 +5,7 @@ Some notes about how to use markdown syntax.
 [Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 
 Backslash \: To show the reserved character up under the markdown mode.
+Two Space: Newline
 
 ---
 ### Tables
